@@ -61,12 +61,4 @@ To deliver a Power BI dashboard that:
 
 ### Dashboard Preview
 
-![Dashboard Main View](https://C:\Users\shubham kumar\OneDrive\Pictures\Screenshots 1\Screenshot 2025-06-30 181129.png)
-
-### Attrition Heatmap
-
-![Attrition Heatmap](https://yourdomain.com/path/to/dashboard_screenshot2.png)
-
-### Salary vs Attrition Plot
-
-![Salary vs Attrition](https://yourdomain.com/path/to/dashboard_screenshot3.png).
+![Dashboard Main View](https://github.com/shubhamg124/HR-ANALYTICS/blob/main/Snapshot%20of%20HR%20ANALYTICS%20DASHBOARD.png)
