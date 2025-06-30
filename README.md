@@ -59,13 +59,9 @@ To deliver a Power BI dashboard that:
 * **Workforce Planning**: Allocate HR resources where attrition risk is highest
 * **Policy Adjustments**: Insights help refine promotion, training, and wellness initiatives
 
-## 6. Screenshot
-
-Insert screenshots like this after uploading them to GitHub or an image host:
-
 ### Dashboard Preview
 
-![Dashboard Main View](https://yourdomain.com/path/to/dashboard_screenshot1.png)
+![Dashboard Main View](https://C:\Users\shubham kumar\OneDrive\Pictures\Screenshots 1\Screenshot 2025-06-30 181129.png)
 
 ### Attrition Heatmap
 
